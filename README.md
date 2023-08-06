@@ -20,8 +20,8 @@ I'm a passionate frontend developer from Egypt, focused on web development and c
 - API Testing: Postman
 
 #### How to reach me:
-- E-Mail: adelahmed0@example.com
-- Mobile: +20XXXXXXXXXX
+- E-Mail: adel15952@gmail.com
+- Mobile: +201159248310
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelahmed0&label=Profile%20views&color=0e75b6&style=flat" alt="adelahmed0" /> </p>
 
