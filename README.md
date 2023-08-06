@@ -6,7 +6,7 @@
    
 ### About Me:
 <p align="center">
-I'm a passionate frontend developer from Egypt, focused on web development and creating outstanding user experiences. Currently working at MYM componay and pursuing studies at the faculty of Computer and Artificial Intelligence at Helwan University in Cairo. My diverse skill set includes:
+I'm a passionate frontend developer from Egypt, focused on web development and creating outstanding user experiences. Currently working at MYM componay and pursuing studies at the Faculty of Arts at Helwan University in Cairo. My diverse skill set includes:
 </p>
 
 - Web Development: Full Stack using HTML, CSS, JavaScript, Bootstrap, SASS, and jQuery.
