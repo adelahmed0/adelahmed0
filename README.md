@@ -6,7 +6,12 @@
    
 ### About Me:
 <p align="center">
-I'm a passionate frontend developer from Egypt, focused on web development and creating outstanding user experiences. Currently working at Make Your Miracle (MYM) and pursuing studies at the Faculty of Arts at Helwan University in Cairo. I have diverse skills in web development, project management, and full stack development.
+As a Frontend Developer, I specialize in creating responsive and visually compelling web
+applications using HTML, CSS, JavaScript, and frameworks like React.js and Next.js. I'm skilled in
+optimizing performance, ensuring cross-browser compatibility, and designing user-centric
+interfaces. I'm committed to continuous learning and excel in collaborating with teams to deliver
+high-quality solutions. My extensive freelancing experience enhances my adaptability across diverse
+projects.
 </p>
 
 - **Web Development**: Full Stack using HTML, CSS, JavaScript, Bootstrap, SASS, and jQuery.
