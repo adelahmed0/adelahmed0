@@ -14,16 +14,19 @@ high-quality solutions. My extensive freelancing experience enhances my adaptabi
 projects.
 </p>
 
-- **Web Development**: Full Stack using HTML, CSS, JavaScript, Bootstrap, SASS, and jQuery.
-- **CSS Framework**: Tailwind CSS, Material UI
-- **Frontend Frameworks**: React.js, Redux, Redux Toolkit, Next.js, React Router, Vue.js
+
+- **Web Development**: Frontend development using HTML, CSS, JavaScript, Bootstrap, SASS, jQuery, Tailwind CSS, Material UI, and modern frameworks like React.js and Next.js.
+- **CSS Frameworks**: Tailwind CSS, Material UI, Bootstrap
+- **Frontend Frameworks**: React.js, Redux, Redux Toolkit, React Router, Next.js
 - **Backend**: PHP with Laravel framework, Node.js, Express.js
 - **Version Control**: Git with GitHub
 - **Databases**: Firebase, MySQL, Supabase
 - **API Testing**: Postman
 - **SEO Optimization**: Implementing search engine best practices
 - **TypeScript**: Strong understanding of TypeScript for frontend development
+- **Design Tools**: Figma, Adobe XD
 - **Project Management**: Agile methodologies and project tracking tools (Jira, Trello)
+
 
 #### How to reach me:
 - **E-Mail**: adel15952@gmail.com
