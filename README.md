@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Adel+Ahmed;Frontend+Developer;Full+Stack+Developer;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Adel+Ahmed;Frontend+Developer;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
    
@@ -10,12 +10,14 @@ I'm a passionate frontend developer from Egypt, focused on web development and c
 </p>
 
 - **Web Development**: Full Stack using HTML, CSS, JavaScript, Bootstrap, SASS, and jQuery.
-- **CSS Framework**: Tailwind CSS
-- **Frontend Frameworks**: React.js, Redux, Vue.js
+- **CSS Framework**: Tailwind CSS, Material UI
+- **Frontend Frameworks**: React.js, Redux, Redux Toolkit, Next.js, React Router, Vue.js
 - **Backend**: PHP with Laravel framework, Node.js, Express.js
 - **Version Control**: Git with GitHub
 - **Databases**: Firebase, MySQL, Supabase
 - **API Testing**: Postman
+- **SEO Optimization**: Implementing search engine best practices
+- **TypeScript**: Strong understanding of TypeScript for frontend development
 - **Project Management**: Agile methodologies and project tracking tools (Jira, Trello)
 
 #### How to reach me:
@@ -53,36 +55,23 @@ I'm a passionate frontend developer from Egypt, focused on web development and c
 
 ---
 
-**Languages and Tools:**  
-<p align="center">  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="next.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
+### **Languages and Tools:**
+
+- **HTML/5** • **CSS/3** • **JavaScript**
+- **Bootstrap** • **Sass** • **Tailwind CSS** • **Material UI**
+- **React.js** • **Next.js** • **Redux & Redux Toolkit** • **React Router**
+- **TypeScript** • **jQuery**
+- **Git** • **GitHub**
+- **Firebase** • **Supabase**
+- **SEO**
+
+---
+
+### **Certifications:**
+
+- **Front-End Web Development** – Udacity
+- **Full Stack Developer** – AMIT Learning
+- **The Ultimate React Course 2024** – Udemy
 
 ---
 
