@@ -33,6 +33,8 @@ projects.
 - **Mobile**: +201159248310
 - **LinkedIn**: [Adel Ahmed Fathelbab](https://www.linkedin.com/in/adel-ahmed-fathelbab)
 - **GitHub**: [adelahmed0](https://github.com/adelahmed0)
+- **Twitter**: [@AdelDeveloperX](https://twitter.com/AdelDeveloperX)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelahmed0&label=Profile%20views&color=0e75b6&style=flat" alt="adelahmed0" /> </p>
 
