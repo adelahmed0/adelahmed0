@@ -91,10 +91,4 @@ projects.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelahmed0&" alt="adelahmed0" /></p>
 
----
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/adelahmed0" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy me a coffee" width="230">
-  </a>
-</p>
