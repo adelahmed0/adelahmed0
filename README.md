@@ -1,90 +1,122 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Adel+Ahmed;Full+Stack+Developer;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-  </a>
-</h1>
-   
-### About Me:
-<p align="center">
-Full Stack Developer building end-to-end products — from responsive web and mobile UIs to scalable APIs and backends. On the frontend I work with React, Next.js, and React Native; on the backend with Node.js, Express, and NestJS. I care about performance, clean architecture, and user-centric design, and I enjoy collaborating with teams to ship reliable, maintainable solutions. Freelance experience across varied projects keeps me adaptable and pragmatic.
-</p>
+<div align="center">
 
+# Hi, I'm Adel Ahmed
 
-- **Frontend**: React, Next.js, React Native, TypeScript, Redux / Redux Toolkit, React Router, Tailwind CSS, Material UI, Bootstrap, SASS
-- **Backend**: Node.js, Express.js, NestJS, REST APIs, authentication & validation
-- **Mobile**: React Native (iOS & Android)
-- **Databases**: MySQL, Firebase, Supabase, SQLite
-- **Version Control**: Git, GitHub
-- **API Testing**: Postman
-- **Design**: Figma, Adobe XD
-- **Other**: SEO, Agile (Jira, Trello)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+React+Native;Node.js+%7C+Express+%7C+NestJS;Building+scalable+products+end-to-end)](https://git.io/typing-svg)
 
-#### How to reach me:
-- **E-Mail**: adel15952@gmail.com
-- **Mobile**: +201159248310
-- **LinkedIn**: [Adel Ahmed Fathelbab](https://www.linkedin.com/in/adel-ahmed-fathelbab)
-- **GitHub**: [adelahmed0](https://github.com/adelahmed0)
-- **Twitter**: [@AdelDeveloperX](https://twitter.com/AdelDeveloperX)
+[![Profile views](https://komarev.com/ghpvc/?username=adelahmed0&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/adelahmed0)
+[![GitHub followers](https://img.shields.io/github/followers/adelahmed0?style=for-the-badge&logo=github&color=181717)](https://github.com/adelahmed0?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-ahmed-fathelbab)
+[![Email](https://img.shields.io/badge/Email-adel15952@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adel15952@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@AdelDeveloperX-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AdelDeveloperX)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adelahmed0&label=Profile%20views&color=0e75b6&style=flat" alt="adelahmed0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adelahmed0" alt="adelahmed0" /></a> </p>
+</div>
 
 ---
 
-### 🏆 Projects:
+## About Me
 
-#### 1. [Smart Lead Tech](https://smartleadtech.com/)
-- **Description**: An innovative web and app development team focusing on high-quality tech solutions.
-- **Tech Stack**: Next.js, Tailwind CSS, Framer Motion, Google Analytics, SEO Optimization
-- **Key Features**: Fast load times, mobile responsiveness, Open Graph for social media sharing.
+Full Stack Developer who ships **web**, **mobile**, and **API** products with a focus on clean architecture, performance, and maintainable code.
 
-#### 2. [Fypi](https://fypi.com/en)
-- **Description**: A platform to manage all POS applications and business operations in one place.
-- **Tech Stack**: Next.js, i18next, styled-components, Supabase, Vite
-- **Key Features**: Multilingual support, real-time data management, secure authentication.
+- Design and build UIs with **React**, **Next.js**, and **React Native**
+- Build backends with **Node.js**, **Express**, and **NestJS** (REST, auth, validation)
+- Work with **TypeScript** across the stack
+- Comfortable with **SQL & NoSQL**, **Git**, **CI-friendly** workflows, and **Agile** delivery
+- Strong freelance background — fast learner, clear communication, production-minded
 
-#### 3. [The Wild Oasis Dashboard](https://the-wild-oasis-adel.vercel.app/)
-- **Description**: A multilingual dashboard for hotel management with secure booking and flexible pricing.
-- **Tech Stack**: React.js, Supabase, React Router, Tailwind CSS
-- **Key Features**: Real-time booking management, user authentication, filtering, and pagination.
-
-#### 4. [Qaweny Platform](https://qawenyservice.com/)
-- **Description**: A fitness platform connecting users with certified trainers and nutritionists.
-- **Key Features**: Custom workout schedules, trainer support, and remote training services.
+📍 Egypt · 📱 +20 115 924 8310
 
 ---
 
-### **Languages and Tools:**
+## Tech Stack
 
-**Frontend & Mobile**
-- **React** • **Next.js** • **React Native**
-- **TypeScript** • **Redux** • **Redux Toolkit** • **React Router**
-- **HTML5** • **CSS3** • **JavaScript** • **Tailwind CSS** • **Material UI** • **Bootstrap** • **SASS**
-
-**Backend**
-- **Node.js** • **Express.js** • **NestJS**
-
-**Tools & Data**
-- **Git** • **GitHub** • **Postman**
-- **Firebase** • **Supabase** • **MySQL**
-
----
-
-### **Certifications:**
-
-- **Front-End Web Development** – Udacity
-- **Full Stack Developer** – AMIT Learning
-- **The Ultimate React Course 2024** – Udemy
-
----
+### Frontend & Mobile
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelahmed0&show_icons=true&locale=en&layout=compact" alt="adelahmed0" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,scss,redux&perline=9" alt="Frontend skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="48" alt="React Native" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelahmed0&show_icons=true&locale=en" alt="adelahmed0" /></p>
+### Backend & APIs
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelahmed0&" alt="adelahmed0" /></p>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,postman&perline=10)](https://skillicons.dev)
 
+### Databases & Storage
+
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,prisma,dynamodb,cassandra,elasticsearch&perline=11)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" alt="PlanetScale" />
+</p>
+
+### Tools & Workflow
+
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,npm,docker&perline=10)](https://skillicons.dev)
+
+<br/>
+
+| Area | Technologies |
+|------|----------------|
+| **Frontend** | React, Next.js, TypeScript, Redux / RTK, React Router, Tailwind, MUI |
+| **Mobile** | React Native (iOS & Android) |
+| **Backend** | Node.js, Express.js, NestJS, REST APIs, JWT / sessions, class-validator |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Redis, SQLite, MariaDB, SQL Server, Oracle |
+| **BaaS / Cloud DB** | Firebase, Supabase, DynamoDB, PlanetScale |
+| **Search / NoSQL** | Elasticsearch, Cassandra, Neo4j |
+| **ORM / Tools** | Prisma, Postman, Docker |
+| **Design** | Figma, Adobe XD |
+| **Process** | Git, GitHub, Agile, Jira, Trello |
+
+---
+
+## Featured Projects
+
+| Project | Role / focus | Stack |
+|---------|----------------|-------|
+| [**Smart Lead Tech**](https://smartleadtech.com/) | Marketing site & product presence | Next.js, Tailwind, Framer Motion, SEO |
+| [**Fypi**](https://fypi.com/en) | POS & business ops platform | Next.js, i18next, Supabase, Vite |
+| [**The Wild Oasis**](https://the-wild-oasis-adel.vercel.app/) | Hotel admin dashboard | React, Supabase, React Router, Tailwind |
+| [**Qaweny**](https://qawenyservice.com/) | Fitness & coaching marketplace | Full-stack web, auth, booking flows |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adelahmed0&theme=github_dark" alt="GitHub profile details" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adelahmed0&theme=github_dark" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adelahmed0&theme=github_dark" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=adelahmed0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## Certifications
+
+- **Front-End Web Development** — Udacity
+- **Full Stack Developer** — AMIT Learning
+- **The Ultimate React Course** — Udemy
+
+---
+
+<div align="center">
+
+### Let's build something solid together
+
+[![GitHub](https://img.shields.io/badge/GitHub-adelahmed0-181717?style=for-the-badge&logo=github)](https://github.com/adelahmed0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adel-ahmed-fathelbab)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:adel15952@gmail.com)
+
+⭐️ From [**adelahmed0**](https://github.com/adelahmed0)
+
+</div>
