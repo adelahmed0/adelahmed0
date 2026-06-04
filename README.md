@@ -1,32 +1,23 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Adel+Ahmed;Frontend+Developer;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Adel+Ahmed;Full+Stack+Developer;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
    
 ### About Me:
 <p align="center">
-As a Frontend Developer, I specialize in creating responsive and visually compelling web
-applications using HTML, CSS, JavaScript, and frameworks like React.js and Next.js. I'm skilled in
-optimizing performance, ensuring cross-browser compatibility, and designing user-centric
-interfaces. I'm committed to continuous learning and excel in collaborating with teams to deliver
-high-quality solutions. My extensive freelancing experience enhances my adaptability across diverse
-projects.
+Full Stack Developer building end-to-end products — from responsive web and mobile UIs to scalable APIs and backends. On the frontend I work with React, Next.js, and React Native; on the backend with Node.js, Express, and NestJS. I care about performance, clean architecture, and user-centric design, and I enjoy collaborating with teams to ship reliable, maintainable solutions. Freelance experience across varied projects keeps me adaptable and pragmatic.
 </p>
 
 
-- **Web Development**: Frontend development using HTML, CSS, JavaScript, Bootstrap, SASS, jQuery, Tailwind CSS, Material UI, and modern frameworks like React.js and Next.js.
-- **CSS Frameworks**: Tailwind CSS, Material UI, Bootstrap
-- **Frontend Frameworks**: React.js, Redux, Redux Toolkit, React Router, Next.js
-- **Backend**: PHP with Laravel framework, Node.js, Express.js
-- **Version Control**: Git with GitHub
-- **Databases**: Firebase, MySQL, Supabase
+- **Frontend**: React, Next.js, React Native, TypeScript, Redux / Redux Toolkit, React Router, Tailwind CSS, Material UI, Bootstrap, SASS
+- **Backend**: Node.js, Express.js, NestJS, REST APIs, authentication & validation
+- **Mobile**: React Native (iOS & Android)
+- **Databases**: MySQL, Firebase, Supabase, SQLite
+- **Version Control**: Git, GitHub
 - **API Testing**: Postman
-- **SEO Optimization**: Implementing search engine best practices
-- **TypeScript**: Strong understanding of TypeScript for frontend development
-- **Design Tools**: Figma, Adobe XD
-- **Project Management**: Agile methodologies and project tracking tools (Jira, Trello)
-
+- **Design**: Figma, Adobe XD
+- **Other**: SEO, Agile (Jira, Trello)
 
 #### How to reach me:
 - **E-Mail**: adel15952@gmail.com
@@ -56,7 +47,7 @@ projects.
 
 #### 3. [The Wild Oasis Dashboard](https://the-wild-oasis-adel.vercel.app/)
 - **Description**: A multilingual dashboard for hotel management with secure booking and flexible pricing.
-- **Tech Stack**: React.js, Supabase, React-Router, Tailwind CSS
+- **Tech Stack**: React.js, Supabase, React Router, Tailwind CSS
 - **Key Features**: Real-time booking management, user authentication, filtering, and pagination.
 
 #### 4. [Qaweny Platform](https://qawenyservice.com/)
@@ -67,13 +58,17 @@ projects.
 
 ### **Languages and Tools:**
 
-- **HTML/5** • **CSS/3** • **JavaScript**
-- **Bootstrap** • **Sass** • **Tailwind CSS** • **Material UI**
-- **React.js** • **Next.js** • **Redux & Redux Toolkit** • **React Router**
-- **TypeScript** • **jQuery**
-- **Git** • **GitHub**
-- **Firebase** • **Supabase**
-- **SEO**
+**Frontend & Mobile**
+- **React** • **Next.js** • **React Native**
+- **TypeScript** • **Redux** • **Redux Toolkit** • **React Router**
+- **HTML5** • **CSS3** • **JavaScript** • **Tailwind CSS** • **Material UI** • **Bootstrap** • **SASS**
+
+**Backend**
+- **Node.js** • **Express.js** • **NestJS**
+
+**Tools & Data**
+- **Git** • **GitHub** • **Postman**
+- **Firebase** • **Supabase** • **MySQL**
 
 ---
 
@@ -92,5 +87,4 @@ projects.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelahmed0&show_icons=true&locale=en" alt="adelahmed0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelahmed0&" alt="adelahmed0" /></p>
-
 
