@@ -43,15 +43,7 @@ Full Stack Developer who ships **web**, **mobile**, and **API** products with a 
 
 ### Databases & Storage
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,prisma,dynamodb,cassandra,elasticsearch&perline=11)](https://skillicons.dev)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" alt="PlanetScale" />
-</p>
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase,prisma&perline=7)](https://skillicons.dev)
 
 ### Tools & Workflow
 
@@ -59,28 +51,26 @@ Full Stack Developer who ships **web**, **mobile**, and **API** products with a 
 
 <br/>
 
-| Area | Technologies |
-|------|----------------|
-| **Frontend** | React, Next.js, TypeScript, Redux / RTK, React Router, Tailwind, MUI |
-| **Mobile** | React Native (iOS & Android) |
-| **Backend** | Node.js, Express.js, NestJS, REST APIs, JWT / sessions, class-validator |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Redis, SQLite, MariaDB, SQL Server, Oracle |
-| **BaaS / Cloud DB** | Firebase, Supabase, DynamoDB, PlanetScale |
-| **Search / NoSQL** | Elasticsearch, Cassandra, Neo4j |
-| **ORM / Tools** | Prisma, Postman, Docker |
-| **Design** | Figma, Adobe XD |
-| **Process** | Git, GitHub, Agile, Jira, Trello |
+| Area                | Technologies                                                            |
+| ------------------- | ----------------------------------------------------------------------- |
+| **Frontend**        | React, Next.js, TypeScript, Redux / RTK, React Router, Tailwind, MUI    |
+| **Mobile**          | React Native (iOS & Android)                                            |
+| **Backend**         | Node.js, Express.js, NestJS, REST APIs, JWT / sessions, class-validator |
+| **Databases**       | MySQL, PostgreSQL, MongoDB, SQLite, Firebase, Supabase, Prisma          |
+| **Tools**           | Postman, Docker                                                         |
+| **Design**          | Figma, Adobe XD                                                         |
+| **Process**         | Git, GitHub, Agile, Jira, Trello                                        |
 
 ---
 
 ## Featured Projects
 
-| Project | Role / focus | Stack |
-|---------|----------------|-------|
-| [**Smart Lead Tech**](https://smartleadtech.com/) | Marketing site & product presence | Next.js, Tailwind, Framer Motion, SEO |
-| [**Fypi**](https://fypi.com/en) | POS & business ops platform | Next.js, i18next, Supabase, Vite |
-| [**The Wild Oasis**](https://the-wild-oasis-adel.vercel.app/) | Hotel admin dashboard | React, Supabase, React Router, Tailwind |
-| [**Qaweny**](https://qawenyservice.com/) | Fitness & coaching marketplace | Full-stack web, auth, booking flows |
+| Project                                                       | Role / focus                      | Stack                                   |
+| ------------------------------------------------------------- | --------------------------------- | --------------------------------------- |
+| [**Smart Lead Tech**](https://smartleadtech.com/)             | Marketing site & product presence | Next.js, Tailwind, Framer Motion, SEO   |
+| [**Fypi**](https://fypi.com/en)                               | POS & business ops platform       | Next.js, i18next, Supabase, Vite        |
+| [**The Wild Oasis**](https://the-wild-oasis-adel.vercel.app/) | Hotel admin dashboard             | React, Supabase, React Router, Tailwind |
+| [**Qaweny**](https://qawenyservice.com/)                      | Fitness & coaching marketplace    | Full-stack web, auth, booking flows     |
 
 ---
 
